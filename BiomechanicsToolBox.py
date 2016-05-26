@@ -1,3 +1,6 @@
+"""
+    Author : Walid Hassani
+"""
 from numpy.ma import exp, sin
 import numpy as np
 from scipy import signal
