@@ -1,5 +1,7 @@
 """
     Author : Walid Hassani
+    This toolbox is developped for my PhD "Contribution to the modeling and he control of wearable knee joint
+    exoskeleton" at LISSI Lab (University Paris-Est)
 """
 from numpy.ma import exp, sin
 import numpy as np
